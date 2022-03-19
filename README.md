@@ -52,29 +52,29 @@ Current frontend development progress as of 2022 / 03 / 18
 
 ### Documents
 
-Project Summary
-![Project Summary Word Doc](documents/F21_T24_Project Summary.docx)
+Project Summary<br/>
+[Project Summary Word Doc](documents/F21_T24_Project%20Summary.docx)
 
-Project Vision
-![Project Vision Word Doc](documents/F21_T24_Project Vision.docx)
+Project Vision<br/>
+[Project Vision Word Doc](documents/F21_T24_Project%20Vision%20.docx)
 
-Project / Business Requirements
-![High Level Requirements Word Doc](documents/F21_T24_High_Level_Requirements.docx)
+Project / Business Requirements<br/>
+[High Level Requirements Word Doc](documents/F21_T24_High%20Level%20Requirements.docx)
 
-Project Plan
-![Project Plan Word Doc](documents/F21_T24_Project Plan.docx)
+Project Plan<br/>
+[Project Plan Word Doc](documents/F21_T24_Project%20Plan.docx)
 
-Requirements Analysis and Design
-![Requirements Analysis & Design Word Doc](documents/T24_Requirements Analysis and Design.docx)
+Requirements Analysis and Design<br/>
+[Requirements Analysis & Design Word Doc](documents/T24_Requirements%20Analysis%20and%20Design.docx)
 
-Wireframes / Mockups
-![Mockup PDF](documents/F21_T24_MockUp.pdf)
+Wireframes / Mockups<br/>
+[Mockup PDF](documents/F21_T24_MockUp.pdf)
 
-Status Reports
-![Status Report 1 Word Doc](documents/W22_T24_ProjectReport1.docx)
-![Status Report 2 Word Doc](documents/W22_T24_ProjectReport2.docx)
+Status Reports<br/>
+[Status Report 1 Word Doc](documents/W22_T24_ProjectReport1.docx)<br/>
+[Status Report 2 Word Doc](documents/W22_T24_ProjectReport2.docx)
 
-System Implementation
+System Implementation<br/>
 TBD
 
 ----------------------------------------
