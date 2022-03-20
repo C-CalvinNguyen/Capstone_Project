@@ -53,26 +53,26 @@ Current frontend development progress as of 2022 / 03 / 18
 ### Documents
 
 Project Summary<br/>
-[Project Summary Word Doc](documents/F21_T24_Project%20Summary.docx)
+[Project Summary Word Doc](documents/F21_T24_Project%20Summary.pdf)
 
 Project Vision<br/>
-[Project Vision Word Doc](documents/F21_T24_Project%20Vision%20.docx)
+[Project Vision Word Doc](documents/F21_T24_Project%20Vision%20.pdf)
 
 Project / Business Requirements<br/>
-[High Level Requirements Word Doc](documents/F21_T24_High%20Level%20Requirements.docx)
+[High Level Requirements Word Doc](documents/F21_T24_High%20Level%20Requirements.pdf)
 
 Project Plan<br/>
-[Project Plan Word Doc](documents/F21_T24_Project%20Plan.docx)
+[Project Plan Word Doc](documents/F21_T24_Project%20Plan.pdf)
 
 Requirements Analysis and Design<br/>
-[Requirements Analysis & Design Word Doc](documents/T24_Requirements%20Analysis%20and%20Design.docx)
+[Requirements Analysis & Design Word Doc](documents/T24_Requirements%20Analysis%20and%20Design.pdf)
 
 Wireframes / Mockups<br/>
 [Mockup PDF](documents/F21_T24_MockUp.pdf)
 
 Status Reports<br/>
-[Status Report 1 Word Doc](documents/W22_T24_ProjectReport1.docx)<br/>
-[Status Report 2 Word Doc](documents/W22_T24_ProjectReport2.docx)
+[Status Report 1 Word Doc](documents/W22_T24_ProjectReport1.pdf)<br/>
+[Status Report 2 Word Doc](documents/W22_T24_ProjectReport2.pdf)
 
 System Implementation<br/>
 TBD
